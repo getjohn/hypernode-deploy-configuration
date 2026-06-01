@@ -13,6 +13,7 @@ class Server
     public const OPTION_HN_BRANCHER_TIMEOUT = 'hn_brancher_timeout';
     public const OPTION_HN_BRANCHER_REACHABILITY_CHECK_COUNT = 'hn_brancher_reachability_check_count';
     public const OPTION_HN_BRANCHER_REACHABILITY_CHECK_INTERVAL = 'hn_brancher_reachability_check_interval';
+    public const OPTION_HN_BRANCHER_PRESERVE = 'hn_brancher_preserve';
     public const OPTION_HN_PARENT_APP = 'hn_parent_app';
 
     /**
